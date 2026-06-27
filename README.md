@@ -163,4 +163,4 @@ IPL-Data-Analytics-Dashboard
 **Darshana Mancharkar**
 
 Final Year B.E. Student
-LinkedIn:linkedin.com/in/darshana-mancharkar-b4a862318
+LinkedIn: https://www.linkedin.com/in/darshana-mancharkar-b4a862318/
