@@ -1,10 +1,6 @@
 # IPL-Data-Analysis
 Interactive IPL Data Analytics Dashboard built using Python (Pandas, NumPy) and Power BI with DAX, analyzing team, batting, bowling, and match performance (2008–2024).
 
-# 🏏 IPL Data Analytics Dashboard
-
-An interactive **IPL Data Analytics Dashboard** built using **Python (Pandas, NumPy)** and **Power BI**. This project analyzes IPL match and ball-by-ball data to generate insights into team performance, batting, bowling, and match trends.
-
 ## 📌 Project Overview
 
 This project uses IPL datasets to perform data cleaning, exploratory data analysis (EDA), and interactive dashboard development.
@@ -130,11 +126,8 @@ https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ([Bowling Analysis](https://github.com/DarshanaMancharkar/IPL-Data-Analysis/blob/main/Bowling%20Analysis.png?raw=true))
 
----
-
 ## 📁 Repository Structure
 
-```
 IPL-Data-Analytics-Dashboard
 │
 ├── Data
@@ -145,17 +138,14 @@ IPL-Data-Analytics-Dashboard
 │   └── project.py
 │
 ├── PowerBI
-│   └── IPL_Data_Analytics_Dashboard.pbix
+│   └── IPL Analysis Dashboard.pbix
 │
 ├── Images
 │   ├── Overview.png
-│   ├── Batting_Analysis.png
-│   └── Bowling_Analysis.png
+│   ├── Batting Analysis.png
+│   └── Bowling Analysis.png
 │
 └── README.md
-```
-
----
 
 ## 🚀 Skills Demonstrated
 
@@ -168,18 +158,9 @@ IPL-Data-Analytics-Dashboard
 - Data Visualization
 - Business Intelligence
 
----
-
 ## 👩‍💻 Author
 
 **Darshana Mancharkar**
 
-Final Year B.E. Student | Aspiring Data Analyst
-
-GitHub: https://github.com/your-github-username
-
+Final Year B.E. Student
 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
