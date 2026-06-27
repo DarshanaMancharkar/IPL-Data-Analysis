@@ -124,7 +124,7 @@ https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ### Batting Analysis
 
-(Add Screenshot)
+![Batting Analysis](https://github.com/DarshanaMancharkar/IPL-Data-Analysis/blob/main/Batting%20Analysis.png?raw=true)
 
 ### Bowling Analysis
 
